@@ -1,0 +1,31 @@
+body{
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    background: url(702.jpg)center;
+
+    font-family: ;
+    line-height: 1.5;
+    color: white;
+}
+main{
+    background:#00000054;
+    padding:50px 160px ;
+    margin-top: 120px ;
+    border-radius: 10px ;
+    
+   
+    
+}
+logo{
+    margin: 0;
+    text-align: center;
+    
+}
+.conserts table {
+    background: red;
+    border-radius: 10px ;
+    padding: 10px;
+    margin: 0 auto;
+}
+
